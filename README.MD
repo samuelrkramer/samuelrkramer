@@ -9,7 +9,7 @@ I like to build new things and fix existing ones. When I'm not coding or involve
 
 Consider this a cautionary tale: if you give your children robotics kits for their Legos, K'Nex, and Erector sets, they might get involved in amateur tech support and programming in high school, and grow up to become a fullstack software engineer who will fix your car on the side.
 
-## Tech Stack
+## Tech stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
