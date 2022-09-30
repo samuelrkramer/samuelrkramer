@@ -1,9 +1,11 @@
+# Sam Kramer
+
 There are two kinds of people in this world:
 * Those who can extrapolate from incomplete data.
 
 I'm the first type.
 
-# About
+## About
 
 I like to build new things and fix existing ones. When I'm not coding or involved in religious study, I'm often looking for something that needs fixing or just doing logic puzzles. The rare breed who will tinker with a purely mechanical device, or the source code to a fully chipped one, like Flowbots, I can take apart the remote control, and also put it back together.
 
@@ -42,8 +44,7 @@ Consider this a cautionary tale: if you give your children robotics kits for the
 ![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white)
 ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
 
-![Visitor Count](https://profile-counter.glitch.me/samuelrkramer/count.svg) visitors
-
+## External
 [Visit me on ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samrkramer)
 
 [Portfolio hosted on ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
